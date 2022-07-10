@@ -429,8 +429,6 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-.site-header { background-image: url("/images/header.jpg"); background-repeat: repeat-x; background-origin: border-box; background-size: auto; }
-
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
 [class^="language-"]:not(.language-plaintext) pre, [class^="language-"]:not(.language-plaintext) code { background-color: #323443 !important; color: #f8f8f2; }
@@ -485,5 +483,7 @@ pre code { font-size: 15px !important; }
 .highlight .gd { color: #ff5555; }
 
 p code { font-size: 19px; }
+
+.site-header { background-image: url("/images/header.jpg"); background-repeat: repeat-x; background-origin: border-box; background-size: auto; }
 
 /*# sourceMappingURL=style.css.map */
