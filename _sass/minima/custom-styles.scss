@@ -7,12 +7,12 @@
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
 
-// If you want to turn off dark background for syntax highlighting, comment or delete the below line.
-@import "minima/fastpages-dracula-highlight";
-
-site-header {
+.site-header {
   background-image: url("../../images/header.jpg");
   background-repeat: repeat-x;
   background-origin: border-box;
   background-size: auto;
 }
+
+// If you want to turn off dark background for syntax highlighting, comment or delete the below line.
+@import "minima/fastpages-dracula-highlight";
